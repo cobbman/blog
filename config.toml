@@ -1,0 +1,4 @@
+baseURL = 'http://braco.dev/'
+languageCode = 'en-us'
+title = 'Braco.dev Blog and Essays'
+theme = 'hugo-paperMod'
