@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alegreya'),
+    url(/fonts/Alegreya-VariableFont_wght.ttf) format('truetype');
+}
+
+body {
+  font-family: 'Alegreya';
+  letter-spacing: 0.1ch;
+}
+
+.logo a:hover {
+  color: #fff;
+  text-shadow: 1px 1px 2px rgb(180, 35, 216);
+}

@@ -1,0 +1,38 @@
+baseURL: http://braco.dev/
+languageCode: en-us
+title: Braco.dev
+theme: hugo-paperMod
+
+menu:
+    main:
+        - identifier: archives
+          name: archives
+          url: /archives/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: dev.to profile
+          name: dev.to
+          url: https://dev.to/cobb
+          weight: 30
+
+params:
+  defaultTheme: dark
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  homeInfoParams:
+    Title: William Braco
+    Content: Full-stack Software Developer. Hobbyist writer and photographer.
+  socialIcons: # optional
+    - name: "github"
+      url: 'https://github.com/cobbman'
+    - name: 'twitter'
+      url: 'https://twitter.com/william_cobb'
+    - name: 'dev'
+      url: 'https://dev.to/cobb'
