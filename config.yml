@@ -27,7 +27,7 @@ params:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   homeInfoParams:
-    Title: William Cobb-Braco
+    Title: William Cobb Braco
     Content: Full-stack Software Developer. Hobbyist writer and photographer.
   socialIcons: # optional
     - name: "github"
