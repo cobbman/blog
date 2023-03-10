@@ -5,18 +5,22 @@ draft: false
 tags: ['Life Updates']
 ---
 
-It's been a long time since I last sat down to write a blog post. I'm excited to start writing again - it's been on my mind for a while, but also been hard to find the time. In life though, I found it to be true that you only get time to do things you make the the time for. So here I am making the time.
+It's been a long time since I last sat down to write a blog post. I'm excited to start writing again - it's been on my mind for a while, but also been hard to find the time.
 
-Though I've been blogging for almost 25 years now, this blog feels a bit like starting new. Partly because the tech stack is different - I've built this using [Hugo](https://gohugo.io) which I'm really excited about because working with it feels like combining the simplicity of HTML or Markdown with the advantages of a modern stack. My very first "blog post" was written in HTML and I'm currently writing this post in Markdown. I enjoy the simplicity and speed of storing my posts as text files instead of a database.
+Though I've been blogging for 25 years now, this blog feels a bit like starting new. Partly because I'm choosing to write this in Markdown - I've built this using [Hugo](https://gohugo.io) which I'm really excited about because working with it feels like combining the simplicity of HTML or Markdown with the advantages of a modern stack. My very first "blog post" was written in HTML in 1998, then in 2004 I started using 3rd party services like [Blogger](https://blogger.com) and [WordPress](https://wordpress.org). Now, as if coming full circle, I'm currently writing this post in Markdown. **It feels good**.
 
-### Blogging for 25 years
+### How It Started
 
-I wrote my first "blog post" sometime in 1998, but at that time it was just something I did to put content on my website (the term "blog" wasn't coined until later, so I just called it my website). I had learned enough HTML on my own to make my first website but I did not know what to put on it. So, I started writing updates about my life and sharing information about things I liked. Keep in mind this was before cell phones became mainstream and even though the internet was becoming commonplace in people's homes, it definitely was not integrated into our lives back then as it is today. I still remember how amazing the experience was to publish my website on the world wide web! I would tell all my friends and family to go check out my website because it was so exciting (I probably annoyed them with the requests, lol).
+I started blogging in 1998 because I learned HTML and needed content to put into a website. I had learned HTML when my High School Computer Science teacher taught us to find the source code of a webpage by going to `view > source` in the browser (at that time, there was no such thing as a "web development" class, but we were learning C++ and our teacher knew that HTML would be relevant for us to learn, so he had us spend class time to learn it). After learning enough to do some damage, I was ready to publish something. Not having anything to write about I did the next best thing - I just wrote about what I did that day. Then a few days later I wrote some more, and decided to put a date stamp on it so I knew when I was updating. After a few weeks I guess you could call it a "WEB LOG." It wouldn't be until years later that Weblog became "Blog" and the rest is history. It was fun - and I loved sharing information online and learning from others.
+
+### A World Of Experimenters
+
+Turns out, I wasn't the only one discovering the internet this way in 1998. Soon I came across other websites made by individuals who, like me, discovered how websites work by viewing the source code and then replicating it to make our own. HTML was simple and really after learning `a`, `p`, `img` tags you knew what you needed to make something. I had a LOT of fun exploring other websites and learning about the people out there who were writing posts and sharing information online. It was an exciting time to be alive!
 
 ### Blogging To Learn
 
-I've been inspired to write long-form posts thanks to [the essays written by Paul Graham](http://www.paulgraham.com/articles.html). It's not how I usually write - my posts are normally short-form updates or code tutorials.
+Thought I've blogged on and off over the past 25 years, I've always enjoyed the process of expression and learning. I've been inspired to write long-form posts thanks to [the essays written by Paul Graham](http://www.paulgraham.com/articles.html). However in the past I've written 1-sentence articles about nothing and long post about anything that comes to my mind.
 
-It is said that in order to truly learn a subject one must try to teach it. Only through that practice do we internalize the dynamics of a subject. It's in the writing of Essays that I hope to both teach future readers and myself about interesting subjects. Along the way I will share tips and code for programming and web development, and occasional life updates.
+### Looking Ahead
 
-I invite you to share with me in this blogging journey.
+I plan to continue to blog and write. Hopefully this will be looked at by my posterity and they can learn about my journey in this world of websites and shared information. I've learned so much from what other's have shared, and I hope that by sharing my own experiences I can do the same for others.
