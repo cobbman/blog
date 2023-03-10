@@ -1,6 +1,6 @@
-baseURL: https://braco.dev/
+baseURL: https://cobbman.com/
 languageCode: en-us
-title: Braco.dev
+title: cobbman.com
 theme: hugo-PaperMod
 
 menu:
